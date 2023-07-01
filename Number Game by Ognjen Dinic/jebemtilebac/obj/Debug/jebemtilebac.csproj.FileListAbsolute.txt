@@ -1,0 +1,28 @@
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\obj\Debug\jebemtilebac.csproj.AssemblyReference.cache
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\obj\Debug\MainWindow.baml
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\obj\Debug\MainWindow.g.cs
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\obj\Debug\App.g.cs
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\obj\Debug\jebemtilebac_MarkupCompile.cache
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\obj\Debug\jebemtilebac.g.resources
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\obj\Debug\jebemtilebac.Properties.Resources.resources
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\obj\Debug\jebemtilebac.csproj.GenerateResource.cache
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\obj\Debug\jebemtilebac.csproj.CoreCompileInputs.cache
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\bin\Debug\jebemtilebac.exe.config
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\bin\Debug\jebemtilebac.exe
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\bin\Debug\jebemtilebac.pdb
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\obj\Debug\jebemtilebac.exe
+C:\Users\monga\source\repos\jebemtilebac\jebemtilebac\obj\Debug\jebemtilebac.pdb
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\bin\Debug\jebemtilebac.exe.config
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\bin\Debug\jebemtilebac.exe
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\bin\Debug\jebemtilebac.pdb
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\obj\Debug\jebemtilebac.csproj.AssemblyReference.cache
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\obj\Debug\MainWindow.baml
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\obj\Debug\MainWindow.g.cs
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\obj\Debug\App.g.cs
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\obj\Debug\jebemtilebac_MarkupCompile.cache
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\obj\Debug\jebemtilebac.g.resources
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\obj\Debug\jebemtilebac.Properties.Resources.resources
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\obj\Debug\jebemtilebac.csproj.GenerateResource.cache
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\obj\Debug\jebemtilebac.csproj.CoreCompileInputs.cache
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\obj\Debug\jebemtilebac.exe
+C:\Users\monga\source\repos\Number Game by Ognjen Dinic\jebemtilebac\obj\Debug\jebemtilebac.pdb
